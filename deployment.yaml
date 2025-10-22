@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: hello-app
-          image: victo674/hello-app:latest
+          image: victo674/hello-app:bf1dab5cf1099c534ec145afbf954b6774a65eae
           ports:
             - containerPort: 8080
